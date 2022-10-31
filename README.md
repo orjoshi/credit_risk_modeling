@@ -25,3 +25,6 @@ EAD – Linear amount the is at risk once default has occurred ('CCF')
 3. credit_risk_modelling_pd_monitoring.ipynb
 4. credit_risk_modelling_lgd_ead_models.ipynb
 5. credit_risk_modelling_expected_loss.ipynb
+
+Note - Some .csv files (saved DataFrames) and .sav files (saved Models) will be generated (Those files are not attched since the size of the files is very large)
+Note - Google Colab used as IDE
