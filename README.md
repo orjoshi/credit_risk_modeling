@@ -16,7 +16,7 @@ EAD – Linear amount the is at risk once default has occurred ('CCF')
 1. Probability of default (%) – if 1 in 10 defaulted on the loan last year, then PD = 10%
 2. Loss given default (%) – If borrower defaults, the loan remaining is 10K but the bank manages to sell the property for 8K. So, the remaining 2K divided by 10K is LGD i.e. 2/10 = 20%. (Percentage that cannot be recovered)
 3. Exposure at default (Amount) – The 10K which the borrower was unable to pay, is EAD. EAD = 10K. (Debt left when the borrower defaulted)
-4. Expected Loss = PD x LGD x EAD = 10% x 20% x 10K = 0.1*0.2*10000 = 200
+4. Expected Loss = PD x LGD x EAD = 10% x 20% x 10K = 0.1 x 0.2 x 10000 = 200
 
 
 ### Order to run the .ipynb files
