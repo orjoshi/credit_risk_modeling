@@ -20,3 +20,11 @@ Example -
 •	Loss given default (%) – If borrower defaults, the loan remaining is 10K but the bank manages to sell the property for 8K. So, the remaining 2K divided by 10K is LGD i.e. 2/10 = 20%. (Percentage that cannot be recovered)
 •	Exposure at default (Amount) – The 10K which the borrower was unable to pay, is EAD. EAD = 10K. (Debt left when the borrower defaulted)
 •	Expected Loss = PD x LGD x EAD = 10% x 20% x 10K = 0.1*0.2*10000 = 200
+
+
+Order to run the .ipynb files
+1. credit_risk_modelling_data_prep.ipynb
+2. credit_risk_modelling_pd_model.ipynb
+3. credit_risk_modelling_pd_monitoring.ipynb
+4. credit_risk_modelling_lgd_ead_models.ipynb
+5. credit_risk_modelling_expected_loss.ipynb
