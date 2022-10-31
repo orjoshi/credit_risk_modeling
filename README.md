@@ -6,8 +6,8 @@
 3. Data Dictionary - LCDataDictionary.xlsx
 
 
-PD model – Logistic Regression – determine the probability of borrower defaulting on the loan ('good_bad')
-LGD model – Logistic + Linear – Logistic to predict whether borrower will default or not ('recovery_rate_0_1') and linear to predict the percentage of money lost ('recovery_rate')
+PD model – Logistic Regression – determine the probability of borrower defaulting on the loan ('good_bad') <br>
+LGD model – Logistic + Linear – Logistic to predict whether borrower will default or not ('recovery_rate_0_1') and linear to predict the percentage of money lost ('recovery_rate') <br>
 EAD – Linear amount the is at risk once default has occurred ('CCF')
 
 ### (Expected Loss) EL = PD * LGD * EAD
